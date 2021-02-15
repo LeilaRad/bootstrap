@@ -18,3 +18,15 @@
 
 	
 }
+
+@media screen and (max-width: 414px) {
+	.row {
+		text-align: center;
+	}
+
+	.d-flex {
+		flex-direction: column;
+	}
+
+	
+}
