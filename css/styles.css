@@ -26,7 +26,7 @@
 
 	.d-flex {
 		flex-direction: column;
+		padding: 45px;
 	}
 
-	
 }
