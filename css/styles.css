@@ -6,27 +6,3 @@
 	height: 50vh;
 	position: relative; 
 }
-
-@media screen and (max-width: 375px) {
-	.row {
-		text-align: center;
-	}
-
-	.d-flex {
-		flex-direction: column;
-	}
-
-	
-}
-
-@media screen and (max-width: 414px) {
-	.row {
-		text-align: center;
-	}
-
-	.d-flex {
-		flex-direction: column;
-		padding: 45px;
-	}
-
-}
